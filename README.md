@@ -1,3 +1,9 @@
+⚠️ Disclaimer:
+This repository is for portfolio showcase purposes only.
+The full Unreal Engine project files are not included due to the use of free and Marketplace assets covered by restrictive licenses.
+All included images and Blueprints are shown for educational and demonstration purposes only.
+
+
 <img width="2555" height="2096" alt="post1" src="https://github.com/user-attachments/assets/2605aa2e-3bd3-47e1-b6a2-a0957499b934" /># Jetpack-Kix
 A UE5 Blueprint platformer prototype built during the Ultimate Developer Course (Udemy)
 
