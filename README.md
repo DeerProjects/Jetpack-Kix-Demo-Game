@@ -20,7 +20,7 @@ All images and Blueprints shown are for educational demonstration purposes.
 Jetpack Kix is a third-person platforming prototype built in Unreal Engine 5.
 In this game, the player uses a jetpack to fly between floating platforms, collect fuel pickups, and reach the final platform before running out of energy.
 
-The project was created during the Ultimate Unreal Developer Course on Udemy (by GameDev.tv), where I learned the fundamentals of Unreal Engine.
+The project was created during the Ultimate Unreal Developer Course on Udemy, where I learned the fundamentals of Unreal Engine.
 After completing the course content, I expanded the project by adding custom Blueprint logic, enhanced input mappings, modular interfaces, and complete gameplay polish to create a standalone, playable experience.
 
 🧠 Core Features
